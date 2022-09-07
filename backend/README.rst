@@ -33,3 +33,7 @@ Project structure
 -----------------
 
 Project dependencies are managed by poetry `(https://python-poetry.org)`, using venv `(https://docs.python.org/3/library/venv.html)`.
+
+Docker
+------
+Docker compose up, wait for the back end to load, then wait for the front end to load.
